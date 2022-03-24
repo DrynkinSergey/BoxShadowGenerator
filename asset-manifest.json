@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BoxShadowGenerator/static/css/main.60f53885.css",
+    "main.js": "/BoxShadowGenerator/static/js/main.fedacbd2.js",
+    "index.html": "/BoxShadowGenerator/index.html",
+    "main.60f53885.css.map": "/BoxShadowGenerator/static/css/main.60f53885.css.map",
+    "main.fedacbd2.js.map": "/BoxShadowGenerator/static/js/main.fedacbd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f53885.css",
+    "static/js/main.fedacbd2.js"
+  ]
+}
